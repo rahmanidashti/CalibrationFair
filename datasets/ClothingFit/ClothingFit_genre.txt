@@ -5243,7 +5243,7 @@
 146,sheath
 494,dress
 722,dress
-2218,dress|maxi
+2218,maxi|dress
 1976,gown
 1355,dress
 2219,dress
@@ -5911,7 +5911,7 @@
 201,gown
 95,sheath
 1033,gown
-2218,dress|maxi
+2218,maxi|dress
 1695,dress
 467,jumpsuit
 66,shift
@@ -7458,7 +7458,7 @@
 458,gown
 2710,dress
 2711,dress
-2218,dress|maxi
+2218,maxi|dress
 233,dress
 2712,dress
 2713,dress
@@ -8108,7 +8108,7 @@
 2826,blouse
 1012,dress
 694,dress
-2218,dress|maxi
+2218,maxi|dress
 2827,top
 2828,dress
 367,dress
@@ -9741,7 +9741,7 @@
 2852,sheath
 113,mini
 472,maxi
-2218,dress|maxi
+2218,maxi|dress
 636,dress
 1552,gown
 1591,dress
@@ -10126,7 +10126,7 @@
 3120,skirt
 3121,down
 8,gown
-2218,dress|maxi
+2218,maxi|dress
 379,dress
 293,sheath
 229,dress
@@ -10343,7 +10343,7 @@
 3149,dress
 610,dress
 1117,dress
-2218,dress|maxi
+2218,maxi|dress
 304,dress
 16,dress
 22,dress
@@ -10610,7 +10610,6 @@
 151,gown
 1092,gown
 474,dress
-181,dress
 223,gown
 3183,dress
 1531,dress
@@ -10845,7 +10844,6 @@
 907,dress
 246,sheath
 262,gown
-3,dress
 1354,dress
 1260,down
 771,dress
@@ -11144,7 +11142,7 @@
 582,shift
 3246,jacket
 75,dress
-2218,dress|maxi
+2218,maxi|dress
 1332,dress
 344,dress
 1222,gown
@@ -11377,7 +11375,6 @@
 1145,sheath
 781,tank
 3235,dress
-94,gown
 217,gown
 1216,jumpsuit
 3267,top
@@ -12346,7 +12343,7 @@
 240,gown
 183,gown
 285,dress
-2218,dress|maxi
+2218,maxi|dress
 557,dress
 2525,jumpsuit
 79,dress
@@ -13203,7 +13200,6 @@
 34,gown
 631,dress
 244,dress
-273,gown
 254,dress
 3006,dress
 3,dress
@@ -14674,7 +14670,7 @@
 3214,jumpsuit
 157,gown
 65,gown
-2218,dress|maxi
+2218,maxi|dress
 276,top
 273,gown
 246,sheath
@@ -15784,7 +15780,7 @@
 2958,gown
 1011,tank
 1438,sheath
-2218,dress|maxi
+2218,maxi|dress
 842,dress
 876,jumpsuit
 113,mini
@@ -17506,7 +17502,6 @@
 879,sheath
 174,dress
 201,gown
-827,dress
 148,gown
 2025,blazer
 2497,gown
@@ -19354,7 +19349,6 @@
 2849,dress
 3980,top
 2636,gown
-273,gown
 367,dress
 2128,gown
 277,dress
@@ -20067,7 +20061,7 @@
 305,dress
 1188,dress
 3983,maxi
-2218,dress|maxi
+2218,maxi|dress
 3257,dress
 306,dress
 4025,culottes
@@ -20231,7 +20225,6 @@
 305,dress
 2375,sheath
 148,gown
-223,gown
 739,shift
 4037,jacket
 4038,top
@@ -20960,7 +20953,7 @@
 2976,dress
 1,gown
 1007,dress
-2218,dress|maxi
+2218,maxi|dress
 3,dress
 4100,top
 4101,dress
@@ -21054,7 +21047,6 @@
 4104,dress
 244,dress
 2713,dress
-181,dress
 209,dress
 12,gown
 2257,shift
@@ -21827,7 +21819,6 @@
 2404,dress
 879,sheath
 4151,top
-148,gown
 4152,top
 610,dress
 258,maxi
@@ -22537,7 +22528,7 @@
 416,gown
 202,dress
 924,maxi
-2218,dress|maxi
+2218,maxi|dress
 40,dress
 1213,dress
 3235,dress
@@ -24466,7 +24457,7 @@
 535,dress
 812,jumpsuit
 541,jumpsuit
-2218,dress|maxi
+2218,maxi|dress
 26,dress
 195,dress
 34,gown
@@ -25138,7 +25129,6 @@
 1827,maxi
 3219,jumpsuit
 2278,dress
-305,dress
 79,dress
 257,mini
 4323,gown
@@ -25530,7 +25520,6 @@
 4342,dress
 1163,dress
 3,dress
-305,dress
 831,dress
 1099,sheath
 110,shift
@@ -26265,7 +26254,7 @@
 1608,dress
 3748,dress
 3066,dress
-2218,dress|maxi
+2218,maxi|dress
 530,dress
 1369,dress
 2915,dress
@@ -26412,7 +26401,7 @@
 432,shift
 1045,dress
 16,dress
-2218,dress|maxi
+2218,maxi|dress
 83,dress
 2529,dress
 1144,sheath
@@ -26699,7 +26688,6 @@
 2454,sheath
 3207,dress
 768,dress
-441,gown
 2597,jumpsuit
 572,top
 4266,dress
@@ -26894,7 +26882,6 @@
 34,gown
 2716,shift
 1384,gown
-305,dress
 75,dress
 1877,dress
 681,gown
@@ -28790,7 +28777,7 @@
 1971,dress
 1704,gown
 598,gown
-2218,dress|maxi
+2218,maxi|dress
 1529,gown
 809,dress
 4478,jumpsuit
@@ -29098,7 +29085,7 @@
 533,dress
 1767,dress
 848,sheath
-2218,dress|maxi
+2218,maxi|dress
 4124,dress
 567,dress
 860,dress
@@ -29360,7 +29347,7 @@
 2568,dress
 1976,gown
 2154,top
-2218,dress|maxi
+2218,maxi|dress
 1285,dress
 4323,gown
 4500,top
@@ -29862,7 +29849,7 @@
 1654,dress
 305,dress
 947,dress
-2218,dress|maxi
+2218,maxi|dress
 2502,gown
 225,romper
 130,dress
@@ -29906,7 +29893,7 @@
 825,dress
 815,jumpsuit
 2149,dress
-2218,dress|maxi
+2218,maxi|dress
 533,dress
 1752,gown
 467,jumpsuit
@@ -30009,7 +29996,6 @@
 4534,dress
 329,gown
 113,mini
-107,gown
 1119,gown
 1455,dress
 223,gown
@@ -31368,7 +31354,7 @@
 65,gown
 223,gown
 148,gown
-2218,dress|maxi
+2218,maxi|dress
 2732,top
 2063,gown
 1260,down
@@ -32560,7 +32546,7 @@
 1374,dress
 182,dress
 2381,dress
-2218,dress|maxi
+2218,maxi|dress
 1099,sheath
 728,gown
 3155,jumpsuit
@@ -35435,7 +35421,6 @@
 1269,shift
 1507,dress
 3103,dress
-151,gown
 1236,dress
 107,gown
 17,gown
@@ -37879,7 +37864,7 @@
 312,dress
 1,gown
 2818,dress
-2218,dress|maxi
+2218,maxi|dress
 575,dress
 4607,jacket
 2942,dress
@@ -40611,7 +40596,6 @@
 801,skirt
 204,sheath
 1246,gown
-968,gown
 1573,gown
 614,dress
 226,dress
@@ -40837,7 +40821,6 @@
 514,dress
 1726,sheath
 198,dress
-151,gown
 2334,gown
 102,dress
 564,gown
@@ -41454,7 +41437,7 @@
 1703,dress
 2766,dress
 3706,dress
-4887,sweater|top
+4887,top|sweater
 304,dress
 1245,dress
 35,dress
@@ -41473,7 +41456,7 @@
 1542,gown
 3550,gown
 2095,sheath
-2218,dress|maxi
+2218,maxi|dress
 3060,dress
 2318,dress
 4428,dress
@@ -41727,7 +41710,6 @@
 2765,gown
 94,gown
 151,gown
-825,dress
 727,dress
 257,mini
 1722,dress
@@ -42374,7 +42356,6 @@
 16,dress
 297,sheath
 1149,dress
-223,gown
 3102,top
 1509,dress
 535,dress
@@ -42911,7 +42892,7 @@
 1712,dress
 3585,top
 1668,dress
-2218,dress|maxi
+2218,maxi|dress
 539,dress
 619,dress
 22,dress
@@ -43948,7 +43929,7 @@
 484,dress
 1856,sheath
 158,dress
-2218,dress|maxi
+2218,maxi|dress
 989,dress
 752,dress
 246,sheath
@@ -46916,7 +46897,7 @@
 16,dress
 1017,dress
 44,shirtdress
-2218,dress|maxi
+2218,maxi|dress
 766,gown
 97,dress
 4393,gown
@@ -47223,7 +47204,7 @@
 1098,top
 224,sheath
 4924,coat
-2218,dress|maxi
+2218,maxi|dress
 627,gown
 304,dress
 2575,romper
@@ -48699,7 +48680,6 @@
 1815,dress
 290,gown
 3412,gown
-307,gown
 493,dress
 359,dress
 371,dress
@@ -50767,7 +50747,6 @@
 1742,dress
 924,maxi
 716,dress
-151,gown
 1826,sheath
 510,gown
 237,gown
@@ -52388,7 +52367,7 @@
 425,dress
 437,dress
 1119,gown
-2218,dress|maxi
+2218,maxi|dress
 3044,dress
 452,dress
 1463,sheath
@@ -52714,7 +52693,6 @@
 3573,dress
 1332,dress
 421,dress
-895,dress
 304,dress
 1817,gown
 3,dress
@@ -53074,7 +53052,6 @@
 2097,gown
 1374,dress
 107,gown
-3,dress
 2670,gown
 147,maxi
 439,dress
@@ -53301,7 +53278,7 @@
 2553,dress
 4827,sweater
 2209,sheath
-2218,dress|maxi
+2218,maxi|dress
 2177,jacket
 1818,dress
 3,dress
@@ -56141,7 +56118,6 @@
 1433,sheath
 394,dress
 869,dress
-432,shift
 367,dress
 2492,sheath
 675,dress
@@ -57735,7 +57711,6 @@
 148,gown
 1857,dress
 1028,dress
-307,gown
 4586,sweater
 1675,dress
 66,shift
@@ -59349,7 +59324,6 @@
 2428,sweater
 1074,gown
 2336,sweater
-151,gown
 65,gown
 2635,jacket
 968,gown
@@ -59560,7 +59534,7 @@
 65,gown
 474,dress
 804,dress
-2218,dress|maxi
+2218,maxi|dress
 77,gown
 3,dress
 1007,dress
@@ -60740,7 +60714,7 @@
 2126,dress
 632,sheath
 226,dress
-2218,dress|maxi
+2218,maxi|dress
 3342,skirt
 2338,top
 447,dress
@@ -61818,7 +61792,7 @@
 1374,dress
 441,gown
 2488,jogger
-2218,dress|maxi
+2218,maxi|dress
 2183,dress
 293,sheath
 460,sheath
@@ -61993,7 +61967,6 @@
 138,dress
 379,dress
 2680,dress
-65,gown
 107,gown
 12,gown
 110,shift
@@ -63625,7 +63598,6 @@
 488,dress
 567,dress
 5177,romper
-3,dress
 183,gown
 1637,dress
 4195,dress
@@ -63912,7 +63884,6 @@
 3508,gown
 130,dress
 4279,dress
-148,gown
 842,dress
 879,sheath
 700,top
@@ -64165,7 +64136,6 @@
 1579,dress
 488,dress
 3949,top
-273,gown
 5249,shirt
 140,dress
 54,gown
@@ -64853,7 +64823,6 @@
 3716,dress
 678,sheath
 65,gown
-94,gown
 148,gown
 10,sheath
 81,sheath
@@ -66742,7 +66711,7 @@
 1529,gown
 174,dress
 305,dress
-4887,sweater|top
+4887,top|sweater
 12,gown
 2666,gown
 474,dress
@@ -67837,7 +67806,6 @@
 229,dress
 590,dress
 501,skirt
-107,gown
 307,gown
 1599,dress
 2079,coat
@@ -68933,7 +68901,6 @@
 706,sheath
 3895,sheath
 895,dress
-65,gown
 2586,sheath
 1845,gown
 304,dress
@@ -70489,7 +70456,7 @@
 886,gown
 582,shift
 2357,sheath
-2218,dress|maxi
+2218,maxi|dress
 3121,down
 796,dress
 1606,shift
@@ -72195,7 +72162,6 @@
 2134,dress
 3381,dress
 2470,gown
-151,gown
 411,gown
 4053,sheath
 655,dress
@@ -72512,7 +72478,7 @@
 3228,dress
 633,dress
 1439,dress
-2218,dress|maxi
+2218,maxi|dress
 965,dress
 198,dress
 535,dress
@@ -72824,7 +72790,7 @@
 5015,dress
 4125,blouse
 12,gown
-2218,dress|maxi
+2218,maxi|dress
 316,gown
 1023,dress
 535,dress
@@ -73258,7 +73224,7 @@
 1540,print
 349,gown
 1931,dress
-2218,dress|maxi
+2218,maxi|dress
 2538,sheath
 441,gown
 223,gown
@@ -73948,7 +73914,6 @@
 2646,dress
 2709,dress
 195,dress
-151,gown
 2831,dress
 645,dress
 146,sheath
@@ -74592,7 +74557,6 @@
 379,dress
 1053,dress
 2299,sheath
-181,dress
 3,dress
 1251,dress
 3,dress
@@ -76881,7 +76845,7 @@
 1200,dress
 1441,gown
 1269,shift
-2218,dress|maxi
+2218,maxi|dress
 1,gown
 12,gown
 1952,sheath
@@ -77026,7 +76990,6 @@
 1050,dress
 2933,jumpsuit
 704,mini
-3793,dress
 330,dress
 1143,dress
 296,dress
@@ -78663,7 +78626,6 @@
 2447,dress
 1720,dress
 16,dress
-3,dress
 441,gown
 29,gown
 144,gown
@@ -80066,7 +80028,6 @@
 469,sheath
 4610,vest
 296,dress
-94,gown
 157,gown
 1136,romper
 65,gown
@@ -81257,7 +81218,6 @@
 355,dress
 149,dress
 35,dress
-65,gown
 3431,gown
 627,gown
 388,gown
@@ -82923,7 +82883,6 @@
 246,sheath
 16,dress
 1611,dress
-305,dress
 223,gown
 3444,dress
 3405,dress
@@ -85907,7 +85866,7 @@
 130,dress
 419,dress
 257,mini
-4887,sweater|top
+4887,top|sweater
 716,dress
 2085,dress
 1939,dress
@@ -88409,7 +88368,7 @@
 2880,dress
 1952,sheath
 3106,dress
-2218,dress|maxi
+2218,maxi|dress
 700,top
 65,gown
 704,mini
@@ -89183,7 +89142,7 @@
 2949,gown
 533,dress
 3016,dress
-2218,dress|maxi
+2218,maxi|dress
 4272,jacket
 2042,dress
 11,dress
@@ -89432,7 +89391,6 @@
 349,gown
 2415,dress
 1015,dress
-151,gown
 94,gown
 867,gown
 419,dress
@@ -89942,7 +89900,7 @@
 167,sheath
 1730,dress
 1,gown
-2218,dress|maxi
+2218,maxi|dress
 561,dress
 1999,dress
 5010,coat
@@ -93288,7 +93246,7 @@
 474,dress
 5003,sweater
 884,shift
-2218,dress|maxi
+2218,maxi|dress
 1724,dress
 732,dress
 633,dress
@@ -93949,7 +93907,7 @@
 1258,gown
 2054,dress
 791,dress
-2218,dress|maxi
+2218,maxi|dress
 1682,dress
 138,dress
 2709,dress
@@ -94565,7 +94523,6 @@
 110,shift
 16,dress
 3479,dress
-107,gown
 1662,maxi
 223,gown
 963,coat
@@ -95714,7 +95671,6 @@
 767,top
 2077,jumpsuit
 535,dress
-305,dress
 257,mini
 3427,dress
 4326,dress
@@ -97081,7 +97037,7 @@
 2957,sheath
 77,gown
 400,gown
-2218,dress|maxi
+2218,maxi|dress
 12,gown
 200,dress
 3906,gown
@@ -99411,7 +99367,7 @@
 1718,dress
 438,pants
 2670,gown
-2218,dress|maxi
+2218,maxi|dress
 1374,dress
 240,gown
 955,gown
@@ -100752,7 +100708,6 @@
 151,gown
 2279,gown
 329,gown
-65,gown
 257,mini
 16,dress
 3345,dress
@@ -102306,7 +102261,7 @@
 237,gown
 623,sheath
 223,gown
-4887,sweater|top
+4887,top|sweater
 863,dress
 879,sheath
 65,gown
@@ -102840,7 +102795,7 @@
 293,sheath
 2110,dress
 183,gown
-2218,dress|maxi
+2218,maxi|dress
 2819,sheath
 3,dress
 3532,sheath
@@ -103029,7 +102984,7 @@
 2882,dress
 1317,dress
 1169,gown
-2218,dress|maxi
+2218,maxi|dress
 657,dress
 2779,dress
 2037,dress
@@ -103724,7 +103679,6 @@
 879,sheath
 65,gown
 293,sheath
-148,gown
 3999,jacket
 1218,gown
 4721,gown
@@ -104463,7 +104417,7 @@
 1206,maxi
 1342,romper
 307,gown
-2218,dress|maxi
+2218,maxi|dress
 591,gown
 1469,jumpsuit
 379,dress
@@ -106079,7 +106033,7 @@
 1599,dress
 535,dress
 535,dress
-2218,dress|maxi
+2218,maxi|dress
 462,dress
 9,dress
 2106,gown
@@ -106314,7 +106268,7 @@
 664,gown
 432,shift
 746,dress
-2218,dress|maxi
+2218,maxi|dress
 1665,gown
 1033,gown
 5185,dress
@@ -107267,7 +107221,7 @@
 3708,dress
 462,dress
 975,dress
-4887,sweater|top
+4887,top|sweater
 866,gown
 2601,dress
 3565,coat
@@ -107556,7 +107510,6 @@
 59,gown
 4107,dress
 1053,dress
-107,gown
 448,dress
 824,dress
 3,dress
@@ -108271,7 +108224,7 @@
 1732,dress
 3428,dress
 183,gown
-2218,dress|maxi
+2218,maxi|dress
 3345,dress
 987,romper
 2862,jumpsuit
@@ -109184,7 +109137,7 @@
 2223,gown
 1462,dress
 3160,jumpsuit
-2218,dress|maxi
+2218,maxi|dress
 2460,leggings
 208,sheath
 5355,dress
@@ -110256,7 +110209,7 @@
 4254,dress
 320,dress
 1106,dress
-2218,dress|maxi
+2218,maxi|dress
 3,dress
 4995,dress
 2381,dress
@@ -112701,7 +112654,6 @@
 1686,gown
 65,gown
 35,dress
-400,gown
 5302,top
 4653,top
 1392,dress
@@ -113239,7 +113191,6 @@
 150,gown
 148,gown
 183,gown
-148,gown
 766,gown
 907,dress
 2319,dress
@@ -113713,7 +113664,7 @@
 1503,dress
 2697,dress
 120,dress
-2218,dress|maxi
+2218,maxi|dress
 65,gown
 654,jacket
 1370,dress
@@ -115617,7 +115568,6 @@
 113,mini
 12,gown
 628,dress
-151,gown
 540,dress
 188,gown
 739,shift
@@ -119923,7 +119873,7 @@
 3537,sheath
 148,gown
 1094,dress
-4887,sweater|top
+4887,top|sweater
 3,dress
 183,gown
 3000,dress
@@ -121324,7 +121274,6 @@
 124,dress
 1269,shift
 284,dress
-305,dress
 2269,sheath
 2831,dress
 156,gown
@@ -122027,7 +121976,6 @@
 4044,shirtdress
 930,dress
 188,gown
-895,dress
 2228,dress
 250,dress
 503,dress
@@ -122066,7 +122014,7 @@
 1467,sheath
 111,dress
 229,dress
-4887,sweater|top
+4887,top|sweater
 870,dress
 1144,sheath
 535,dress
@@ -122922,7 +122870,6 @@
 157,gown
 2196,dress
 1611,dress
-148,gown
 3,dress
 1354,dress
 2417,dress
@@ -123427,7 +123374,7 @@
 449,dress
 186,sheath
 2183,dress
-4887,sweater|top
+4887,top|sweater
 647,dress
 727,dress
 1860,dress
@@ -124425,7 +124372,6 @@
 2451,sheath
 2533,shift
 645,dress
-3,dress
 714,dress
 2187,shift
 1153,jumpsuit
@@ -129253,7 +129199,7 @@
 130,dress
 1159,dress
 307,gown
-2218,dress|maxi
+2218,maxi|dress
 512,skirt
 8,gown
 772,gown
@@ -131791,7 +131737,6 @@
 65,gown
 1587,sheath
 1034,romper
-11,dress
 148,gown
 3412,gown
 518,gown
@@ -132370,7 +132315,7 @@
 2980,top
 52,dress
 1039,gown
-2218,dress|maxi
+2218,maxi|dress
 29,gown
 914,top
 12,gown
@@ -132381,7 +132326,6 @@
 3377,dress
 1149,dress
 140,dress
-7,dress
 2266,dress
 217,gown
 5704,dress
@@ -132639,7 +132583,7 @@
 364,suit
 1218,gown
 12,gown
-2218,dress|maxi
+2218,maxi|dress
 879,sheath
 54,gown
 458,gown
@@ -135291,7 +135235,7 @@
 1268,sheath
 186,sheath
 1215,dress
-4887,sweater|top
+4887,top|sweater
 3433,dress
 533,dress
 194,dress
@@ -135394,7 +135338,7 @@
 4116,dress
 518,gown
 1841,dress
-2218,dress|maxi
+2218,maxi|dress
 11,dress
 2836,dress
 1563,dress
@@ -138125,7 +138069,7 @@
 212,gown
 2347,dress
 1242,gown
-2218,dress|maxi
+2218,maxi|dress
 917,jumpsuit
 591,gown
 1795,dress
@@ -139873,7 +139817,7 @@
 418,dress
 2857,dress
 137,romper
-2218,dress|maxi
+2218,maxi|dress
 1017,dress
 1557,dress
 1650,gown
@@ -141240,7 +141184,6 @@
 273,gown
 973,sheath
 2566,dress
-2497,gown
 4342,dress
 3924,dress
 367,dress
@@ -143605,7 +143548,6 @@
 2188,dress
 606,shift
 29,gown
-307,gown
 3540,dress
 377,dress
 326,sheath
@@ -144311,7 +144253,7 @@
 1053,dress
 65,gown
 3,dress
-2218,dress|maxi
+2218,maxi|dress
 875,dress
 2709,dress
 501,skirt
@@ -144715,7 +144657,7 @@
 1010,jumpsuit
 364,suit
 2652,jumpsuit
-2218,dress|maxi
+2218,maxi|dress
 3637,dress
 400,gown
 2370,gown
@@ -145426,7 +145368,7 @@
 153,top
 1466,dress
 1149,dress
-2218,dress|maxi
+2218,maxi|dress
 1533,shift
 1535,dress
 816,skirt
@@ -147527,7 +147469,6 @@
 2110,dress
 3760,sweater
 2020,sheath
-1932,dress
 3846,dress
 4725,dress
 188,gown
@@ -148119,7 +148060,6 @@
 1188,dress
 613,gown
 75,dress
-1489,dress
 1884,dress
 3730,top
 4930,pants
@@ -148173,7 +148113,6 @@
 132,dress
 540,dress
 304,dress
-3,dress
 1405,gown
 1533,shift
 1948,gown
@@ -148325,7 +148264,6 @@
 1056,dress
 244,dress
 535,dress
-182,dress
 3,dress
 54,gown
 35,dress
@@ -151124,7 +151062,6 @@
 4605,gown
 296,dress
 293,sheath
-3,dress
 1491,dress
 763,shift
 304,dress
@@ -152364,7 +152301,6 @@
 1046,sheath
 477,dress
 2931,shift
-441,gown
 1701,dress
 1392,dress
 34,gown
@@ -152432,7 +152368,6 @@
 1163,dress
 1282,sheath
 362,jumpsuit
-65,gown
 2214,dress
 304,dress
 1312,dress
@@ -153206,7 +153141,7 @@
 943,dress
 776,dress
 1853,dress
-2218,dress|maxi
+2218,maxi|dress
 94,gown
 889,sheath
 510,gown
@@ -153939,7 +153874,7 @@
 512,skirt
 3911,dress
 2245,dress
-2218,dress|maxi
+2218,maxi|dress
 196,dress
 1687,sheath
 80,dress
@@ -154022,7 +153957,7 @@
 430,shift
 1507,dress
 657,dress
-2218,dress|maxi
+2218,maxi|dress
 1210,jumpsuit
 3235,dress
 1710,dress
@@ -154770,7 +154705,7 @@
 3126,dress
 2510,skirt
 283,dress
-4887,sweater|top
+4887,top|sweater
 59,gown
 312,dress
 1186,maxi
@@ -156632,7 +156567,6 @@
 209,dress
 441,gown
 1045,dress
-432,shift
 929,dress
 416,gown
 2061,dress
@@ -157427,7 +157361,7 @@
 128,dress
 1411,dress
 304,dress
-2218,dress|maxi
+2218,maxi|dress
 1189,jumpsuit
 2187,shift
 1253,dress
@@ -157680,7 +157614,7 @@
 432,shift
 1495,gown
 2516,dress
-2218,dress|maxi
+2218,maxi|dress
 2221,dress
 4322,blazer
 273,gown
@@ -158231,7 +158165,7 @@
 2242,dress
 268,sheath
 223,gown
-4887,sweater|top
+4887,top|sweater
 388,gown
 1514,dress
 3845,sheath
@@ -159781,7 +159715,6 @@
 2020,sheath
 1438,sheath
 3113,sheath
-273,gown
 993,gown
 4497,dress
 994,dress
@@ -160772,7 +160705,7 @@
 3275,dress
 4813,dress
 4874,shift
-2218,dress|maxi
+2218,maxi|dress
 732,dress
 4206,gown
 217,gown
@@ -160937,7 +160870,7 @@
 1976,gown
 201,gown
 694,dress
-4887,sweater|top
+4887,top|sweater
 3292,gown
 2363,dress
 906,jumpsuit
@@ -162263,7 +162196,6 @@
 186,sheath
 416,gown
 305,dress
-1591,dress
 3156,maxi
 882,frock
 5267,dress
@@ -162361,7 +162293,7 @@
 2512,dress
 3905,maxi
 226,dress
-2218,dress|maxi
+2218,maxi|dress
 1744,sheath
 65,gown
 806,dress
@@ -164449,7 +164381,6 @@
 922,sheath
 194,dress
 929,dress
-307,gown
 498,dress
 2418,dress
 10,sheath
@@ -164491,7 +164422,6 @@
 12,gown
 864,dress
 79,dress
-94,gown
 1371,dress
 107,gown
 2833,dress
@@ -168528,7 +168458,6 @@
 477,dress
 12,gown
 3226,sweater
-3,dress
 454,sheath
 575,dress
 673,gown
@@ -171338,7 +171267,7 @@
 3985,dress
 2727,gown
 1008,sheath
-4887,sweater|top
+4887,top|sweater
 4924,coat
 1952,sheath
 312,dress
@@ -172295,7 +172224,7 @@
 29,gown
 34,gown
 879,sheath
-2218,dress|maxi
+2218,maxi|dress
 4505,dress
 2362,sheath
 1950,dress
@@ -172832,7 +172761,7 @@
 606,shift
 2275,sheath
 606,shift
-2218,dress|maxi
+2218,maxi|dress
 244,dress
 2759,dress
 3340,sheath
@@ -173219,7 +173148,7 @@
 3163,blazer
 846,dress
 148,gown
-4887,sweater|top
+4887,top|sweater
 225,romper
 3,dress
 1149,dress
@@ -174160,7 +174089,7 @@
 63,sheath
 183,gown
 2936,gown
-2218,dress|maxi
+2218,maxi|dress
 4305,dress
 2,sheath
 1774,gown
@@ -174606,7 +174535,7 @@
 1650,gown
 110,shift
 924,maxi
-2218,dress|maxi
+2218,maxi|dress
 217,gown
 335,dress
 831,dress
@@ -175946,7 +175875,7 @@
 4087,dress
 11,dress
 83,dress
-2218,dress|maxi
+2218,maxi|dress
 746,dress
 2791,sheath
 889,sheath
@@ -176378,7 +176307,7 @@
 93,sheath
 796,dress
 65,gown
-2218,dress|maxi
+2218,maxi|dress
 1684,dress
 268,sheath
 2872,romper
@@ -176975,7 +176904,6 @@
 1180,dress
 186,sheath
 2375,sheath
-223,gown
 2608,gown
 304,dress
 43,gown
@@ -177849,7 +177777,6 @@
 476,gown
 1729,sheath
 910,dress
-107,gown
 321,gown
 1140,sheath
 1046,sheath
@@ -178942,7 +178869,7 @@
 3480,dress
 412,dress
 980,sheath
-2218,dress|maxi
+2218,maxi|dress
 151,gown
 35,dress
 2455,dress
@@ -179957,7 +179884,7 @@
 1748,dress
 69,dress
 673,gown
-2218,dress|maxi
+2218,maxi|dress
 1259,dress
 35,dress
 664,gown
@@ -181921,7 +181848,6 @@
 564,gown
 868,gown
 3384,dress
-182,dress
 702,gown
 186,sheath
 4990,coat
@@ -183038,7 +182964,6 @@
 183,gown
 107,gown
 1916,dress
-400,gown
 217,gown
 94,gown
 1408,dress
@@ -183726,7 +183651,6 @@
 589,dress
 1817,gown
 1033,gown
-1932,dress
 43,gown
 5226,sweatershirt
 1133,jacket
@@ -185977,7 +185901,7 @@
 1937,gown
 4695,top
 4827,sweater
-2218,dress|maxi
+2218,maxi|dress
 385,dress
 12,gown
 3160,jumpsuit
@@ -186527,7 +186451,6 @@
 35,dress
 290,gown
 655,dress
-3,dress
 183,gown
 1092,gown
 124,dress
@@ -186660,7 +186583,6 @@
 339,dress
 1505,gown
 214,gown
-3,dress
 4603,dress
 2124,sheath
 4270,dress
@@ -188301,7 +188223,6 @@
 1017,dress
 54,gown
 1774,gown
-1489,dress
 1433,sheath
 223,gown
 567,dress
@@ -189653,7 +189574,6 @@
 476,gown
 106,shift
 188,gown
-148,gown
 296,dress
 3108,gown
 2805,dress
@@ -190338,7 +190258,7 @@
 16,dress
 157,gown
 5349,dress
-2218,dress|maxi
+2218,maxi|dress
 114,gown
 1264,dress
 1606,shift
@@ -190555,7 +190475,6 @@
 1019,dress
 257,mini
 388,gown
-307,gown
 246,sheath
 400,gown
 2831,dress
@@ -191203,7 +191122,6 @@
 2835,dress
 217,gown
 1728,gown
-895,dress
 1455,dress
 360,jacket
 186,sheath
@@ -192339,7 +192257,7 @@
 3,dress
 3497,maxi
 689,dress
-2218,dress|maxi
+2218,maxi|dress
 1619,dress
 1077,dress
 2451,sheath
