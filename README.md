@@ -7,7 +7,9 @@ Calibration Fairness
     - __Output__: Here we create two file, one for the `rating` data which show a user's rating on an item, and another one is `cat` file. The `cat` file indicate the category of each item (`datasets/DS_NAME/DS_NAME_data_map.txt` and `datasets/DS_NAME/DS_NAME_cat_map.txt`).
 3. `dataset.ipynb` ---> `datasets/DS_NAME/DS_NAME_data.txt` and `datasets/DS_NAME/DS_NAME_cat.txt`
 4. `GoogleDrive/0_dataset_in_use.ipnb` ---> `Train`, `Test`, `Category`, `Inters`
+5. User Grouping (`user-groups`): 5%
+6. Item Grouping (`item-groups`): 20%
 
 ## Datasets
-
 - ClothingFit: 5-core
+- MovieLens1M: 10-core
