@@ -1,2 +1,4 @@
 datasets/ClothingFit/raw/*
 .DS_Store
+results/*
+plots/*
